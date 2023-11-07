@@ -1,2 +1,2 @@
 # vba_challenge
-Completed using assistance from student collaboration in ask the class channel on Slack. Additionally utilized Stack Overflow and Excel VBA Programming on homeandlearn.org
+Completed using assistance from student collaboration in "ask the class" channel on Slack for the Berkeley Data Analytics Program. I additionally utilized Stack Overflow and Excel VBA Programming on homeandlearn.org. Please note that the excel file was uploaded, however GitHub has difficulty opening large files and an extention was required to be downloaded to upload. An additional "VBA Script" file was uploaded into the repository as well for visualization purposes if the Excel file is unable to be viewed directly for grading.
